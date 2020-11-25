@@ -14,73 +14,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df2ad583-33ee-4586-addf-2694fbda1e09" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/AlertsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/DropdownPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/DynamicLoadingExample1Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/DynamicLoadingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/FIleUploadPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/HoversPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/InfiniteScrollPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LargeAndDeepDomPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/MultipleWindowsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/SecureAreaPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/WysiwygEditorPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/keyPressPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/WindowManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Frames/FrameTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/alerts/AlertsTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/alerts/FileUploadTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/base/BaseTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dropdown/DropdownTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/gittestpackage/GitTestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hover/HoverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/javascript/JavaScriptTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/keys/KeysTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/login/LoginTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/navigation/NavigationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/wait/WaitTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/drivers/chromedriverWin2_83.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pages/AlertsPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pages/DropdownPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pages/DynamicLoadingExample1Page.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pages/DynamicLoadingPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pages/FIleUploadPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pages/HomePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pages/HoversPage$FigureCaption.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pages/HoversPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pages/InfiniteScrollPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pages/LargeAndDeepDomPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pages/LoginPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pages/MultipleWindowsPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pages/SecureAreaPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pages/WysiwygEditorPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pages/keyPressPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/utils/WindowManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Frames/FrameTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/alerts/AlertsTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/alerts/FileUploadTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/base/BaseTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/drivers/chromedriverWin2_83.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/dropdown/DropdownTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/hover/HoverTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/javascript/JavaScriptTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/keys/KeysTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/login/LoginTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/navigation/NavigationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/wait/WaitTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/webdriver_java-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webdriver_java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webdriver_java.ipr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webdriver_java.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webdriver_java.iws" beforeDir="false" afterPath="$PROJECT_DIR$/webdriver_java.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
